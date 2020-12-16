@@ -1,0 +1,454 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Zoccuagantu",
+      "rank": "Common",
+      "earlyBird": 5,
+      "mcash": 53000,
+      "material": 20537,
+      "weather": "Moist"
+    },
+    {
+      "id": 2,
+      "name": "Hicrastea",
+      "rank": "Common",
+      "earlyBird": 4.5,
+      "mcash": 52000,
+      "material": 19953,
+      "weather": "Moist"
+    },
+    {
+      "id": 3,
+      "name": "Xibrypso",
+      "rank": "Common",
+      "earlyBird": 4,
+      "mcash": 52000,
+      "material": 22806,
+      "weather": "Snow"
+    },
+    {
+      "id": 4,
+      "name": "Lapheon",
+      "rank": "Common",
+      "earlyBird": 3.5,
+      "mcash": 52000,
+      "material": 23544,
+      "weather": "Moist"
+    },
+    {
+      "id": 5,
+      "name": "Norilia",
+      "rank": "Common",
+      "earlyBird": 3,
+      "mcash": 52000,
+      "material": 18162,
+      "weather": "Dry"
+    },
+    {
+      "id": 6,
+      "name": "Pairia",
+      "rank": "Common",
+      "earlyBird": 2.5,
+      "mcash": 51000,
+      "material": 22008,
+      "weather": "Snow"
+    },
+    {
+      "id": 7,
+      "name": "Zipuphus",
+      "rank": "Common",
+      "earlyBird": 2,
+      "mcash": 51000,
+      "material": 22554,
+      "weather": "Lava"
+    },
+    {
+      "id": 8,
+      "name": "Gruyotis",
+      "rank": "Common",
+      "earlyBird": 1.5,
+      "mcash": 51000,
+      "material": 21934,
+      "weather": "Moist"
+    },
+    {
+      "id": 9,
+      "name": "Charth 2H2",
+      "rank": "Common",
+      "earlyBird": 1,
+      "mcash": 51000,
+      "material": 23253,
+      "weather": "Dry"
+    },
+    {
+      "id": 10,
+      "name": "Dypso 155",
+      "rank": "Common",
+      "earlyBird": 0.5,
+      "mcash": 50000,
+      "material": 22487,
+      "weather": "Lava"
+    },
+    {
+      "id": 11,
+      "name": "Alneahines",
+      "rank": "Uncommon",
+      "earlyBird": 5,
+      "mcash": 116000,
+      "material": 22428,
+      "weather": "Snow"
+    },
+    {
+      "id": 12,
+      "name": "Chongophus",
+      "rank": "Uncommon",
+      "earlyBird": 4.5,
+      "mcash": 115000,
+      "material": 21932,
+      "weather": "Snow"
+    },
+    {
+      "id": 13,
+      "name": "Tethides",
+      "rank": "Uncommon",
+      "earlyBird": 4,
+      "mcash": 114000,
+      "material": 18861,
+      "weather": "Dry"
+    },
+    {
+      "id": 14,
+      "name": "Kalmiea",
+      "rank": "Uncommon",
+      "earlyBird": 3.5,
+      "mcash": 114000,
+      "material": 22703,
+      "weather": "Lava"
+    },
+    {
+      "id": 15,
+      "name": "Baliv",
+      "rank": "Uncommon",
+      "earlyBird": 3,
+      "mcash": 113000,
+      "material": 22177,
+      "weather": "Dry"
+    },
+    {
+      "id": 16,
+      "name": "Tebos",
+      "rank": "Uncommon",
+      "earlyBird": 2.5,
+      "mcash": 113000,
+      "material": 22833,
+      "weather": "Moist"
+    },
+    {
+      "id": 17,
+      "name": "Phokotov",
+      "rank": "Uncommon",
+      "earlyBird": 2,
+      "mcash": 112000,
+      "material": 19082,
+      "weather": "Moist"
+    },
+    {
+      "id": 18,
+      "name": "Gaolea",
+      "rank": "Uncommon",
+      "earlyBird": 1.5,
+      "mcash": 112000,
+      "material": 22887,
+      "weather": "Dry"
+    },
+    {
+      "id": 19,
+      "name": "Mosie E89",
+      "rank": "Uncommon",
+      "earlyBird": 1,
+      "mcash": 111000,
+      "material": 20426,
+      "weather": "Moist"
+    },
+    {
+      "id": 20,
+      "name": "Brars S0I ",
+      "rank": "Uncommon",
+      "earlyBird": 0.5,
+      "mcash": 111000,
+      "material": 19615,
+      "weather": "Snow"
+    },
+    {
+      "id": 21,
+      "name": "Gucrilara",
+      "rank": "Rare",
+      "earlyBird": 5,
+      "mcash": 341000,
+      "material": 20819,
+      "weather": "Moist"
+    },
+    {
+      "id": 22,
+      "name": "Ongelea",
+      "rank": "Rare",
+      "earlyBird": 4.75,
+      "mcash": 340000,
+      "material": 22115,
+      "weather": "Snow"
+    },
+    {
+      "id": 23,
+      "name": "Xenion",
+      "rank": "Rare",
+      "earlyBird": 4.5,
+      "mcash": 340000,
+      "material": 23448,
+      "weather": "Moist"
+    },
+    {
+      "id": 24,
+      "name": "Chonkeshan",
+      "rank": "Rare",
+      "earlyBird": 4.25,
+      "mcash": 339000,
+      "material": 21477,
+      "weather": "Moist"
+    },
+    {
+      "id": 25,
+      "name": "Hounov",
+      "rank": "Rare",
+      "earlyBird": 4,
+      "mcash": 338000,
+      "material": 22940,
+      "weather": "Moist"
+    },
+    {
+      "id": 26,
+      "name": "Haevis",
+      "rank": "Rare",
+      "earlyBird": 3.75,
+      "mcash": 337000,
+      "material": 22978,
+      "weather": "Moist"
+    },
+    {
+      "id": 27,
+      "name": "Virecarro",
+      "rank": "Rare",
+      "earlyBird": 3.5,
+      "mcash": 336000,
+      "material": 21956,
+      "weather": "Snow"
+    },
+    {
+      "id": 28,
+      "name": "Crigunerth",
+      "rank": "Rare",
+      "earlyBird": 3.25,
+      "mcash": 336000,
+      "material": 18280,
+      "weather": "Dry"
+    },
+    {
+      "id": 29,
+      "name": "Trurn 7170",
+      "rank": "Rare",
+      "earlyBird": 3,
+      "mcash": 335000,
+      "material": 19959,
+      "weather": "Snow"
+    },
+    {
+      "id": 30,
+      "name": "Soth B81",
+      "rank": "Rare",
+      "earlyBird": 2.75,
+      "mcash": 334000,
+      "material": 22862,
+      "weather": "Lava"
+    },
+    {
+      "id": 31,
+      "name": "Ocraibos",
+      "rank": "Rare",
+      "earlyBird": 2.5,
+      "mcash": 333000,
+      "material": 18170,
+      "weather": "Moist"
+    },
+    {
+      "id": 32,
+      "name": "Cobberilia",
+      "rank": "Rare",
+      "earlyBird": 2.25,
+      "mcash": 332000,
+      "material": 23982,
+      "weather": "Snow"
+    },
+    {
+      "id": 33,
+      "name": "Ankides",
+      "rank": "Rare",
+      "earlyBird": 2,
+      "mcash": 332000,
+      "material": 22379,
+      "weather": "Dry"
+    },
+    {
+      "id": 34,
+      "name": "Zevore",
+      "rank": "Rare",
+      "earlyBird": 1.75,
+      "mcash": 331000,
+      "material": 22827,
+      "weather": "Lava"
+    },
+    {
+      "id": 35,
+      "name": "Cheater",
+      "rank": "Rare",
+      "earlyBird": 1.5,
+      "mcash": 330000,
+      "material": 19726,
+      "weather": "Snow"
+    },
+    {
+      "id": 36,
+      "name": "Ulara",
+      "rank": "Rare",
+      "earlyBird": 1.25,
+      "mcash": 329000,
+      "material": 21819,
+      "weather": "Dry"
+    },
+    {
+      "id": 37,
+      "name": "Trurothea",
+      "rank": "Rare",
+      "earlyBird": 1,
+      "mcash": 328000,
+      "material": 22079,
+      "weather": "Moist"
+    },
+    {
+      "id": 38,
+      "name": "Phanutov",
+      "rank": "Rare",
+      "earlyBird": 0.75,
+      "mcash": 327000,
+      "material": 23868,
+      "weather": "Snow"
+    },
+    {
+      "id": 39,
+      "name": "Lora 6OR",
+      "rank": "Rare",
+      "earlyBird": 0.5,
+      "mcash": 327000,
+      "material": 21119,
+      "weather": "Lava"
+    },
+    {
+      "id": 40,
+      "name": "Chiri 0DP9",
+      "rank": "Rare",
+      "earlyBird": 0.25,
+      "mcash": 326000,
+      "material": 23635,
+      "weather": "Moist"
+    },
+    {
+      "id": 41,
+      "name": "Olvaogantu",
+      "rank": "Epic",
+      "earlyBird": 5,
+      "mcash": 735000,
+      "material": 20624,
+      "weather": "Snow"
+    },
+    {
+      "id": 42,
+      "name": "Xotruastea",
+      "rank": "Epic",
+      "earlyBird": 4.5,
+      "mcash": 732000,
+      "material": 18908,
+      "weather": "Dry"
+    },
+    {
+      "id": 43,
+      "name": "Tilleon",
+      "rank": "Epic",
+      "earlyBird": 4,
+      "mcash": 728000,
+      "material": 18058,
+      "weather": "Moist"
+    },
+    {
+      "id": 44,
+      "name": "Oboria",
+      "rank": "Epic",
+      "earlyBird": 3.5,
+      "mcash": 725000,
+      "material": 18982,
+      "weather": "Moist"
+    },
+    {
+      "id": 45,
+      "name": "Terilia",
+      "rank": "Epic",
+      "earlyBird": 3,
+      "mcash": 721000,
+      "material": 23389,
+      "weather": "Lava"
+    },
+    {
+      "id": 46,
+      "name": "Kutov",
+      "rank": "Epic",
+      "earlyBird": 2.5,
+      "mcash": 718000,
+      "material": 20327,
+      "weather": "Moist"
+    },
+    {
+      "id": 47,
+      "name": "Striravis",
+      "rank": "Epic",
+      "earlyBird": 2,
+      "mcash": 714000,
+      "material": 20203,
+      "weather": "Dry"
+    },
+    {
+      "id": 48,
+      "name": "Griuthea",
+      "rank": "Epic",
+      "earlyBird": 1.5,
+      "mcash": 711000,
+      "material": 23180,
+      "weather": "Moist"
+    },
+    {
+      "id": 49,
+      "name": "Ginda QA77",
+      "rank": "Epic",
+      "earlyBird": 1,
+      "mcash": 707000,
+      "material": 21333,
+      "weather": "Dry"
+    },
+    {
+      "id": 50,
+      "name": "Chichi 6O ",
+      "rank": "Epic",
+      "earlyBird": 0.5,
+      "mcash": 704000,
+      "material": 21319,
+      "weather": "Snow"
+    }
+  ]
+}
